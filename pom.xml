@@ -334,7 +334,7 @@
       <artifactId>cglib-nodep</artifactId>
     </dependency>
     <dependency>
-      <groupId>xml-resolver</groupId>
+      <groupId>xml-resolver-xxxxxxxxxx</groupId>
       <artifactId>xml-resolver</artifactId>
     </dependency>
     <dependency>
