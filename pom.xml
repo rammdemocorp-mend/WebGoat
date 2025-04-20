@@ -396,13 +396,13 @@
     </dependency>
   </dependencies>
 
-  <repositories>
+ <repositories>
     <repository>
       <snapshots>
         <enabled>false</enabled>
       </snapshots>
-      <id>central</id>
-      <url>https://repo.maven.apache.org/maven2</url>
+      <id>nexus-repository</id>
+      <url>https://ram-mend-5.mend-demo.com/nexus/repository/maven-public/</url>
     </repository>
   </repositories>
   <pluginRepositories>
@@ -410,8 +410,8 @@
       <snapshots>
         <enabled>false</enabled>
       </snapshots>
-      <id>central</id>
-      <url>https://repo.maven.apache.org/maven2</url>
+      <id>nexus-repository</id>
+      <url>https://ram-mend-5.mend-demo.com/nexus/repository/maven-public/</url>
     </pluginRepository>
   </pluginRepositories>
 
