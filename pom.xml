@@ -395,26 +395,6 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-
- <repositories>
-    <repository>
-      <snapshots>
-        <enabled>false</enabled>
-      </snapshots>
-      <id>nexus-repository</id>
-      <url>https://ram-mend-5.mend-demo.com/nexus/repository/maven-public/</url>
-    </repository>
-  </repositories>
-  <pluginRepositories>
-    <pluginRepository>
-      <snapshots>
-        <enabled>false</enabled>
-      </snapshots>
-      <id>nexus-repository</id>
-      <url>https://ram-mend-5.mend-demo.com/nexus/repository/maven-public/</url>
-    </pluginRepository>
-  </pluginRepositories>
-
   <build>
     <plugins>
       <plugin>
