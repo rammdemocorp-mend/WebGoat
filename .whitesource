@@ -1,4 +1,7 @@
 {
-  "settingsInheritedFrom": "rammdemocorp-mend/whitesource-config@main"
+  "settingsInheritedFrom": "rammdemocorp-mend/whitesource-config@main",
+  "scanSettings": {
+    "baseBranches": ["main","suppress"]
+  }
 }
 
